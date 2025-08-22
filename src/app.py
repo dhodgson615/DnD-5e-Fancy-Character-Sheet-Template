@@ -169,6 +169,7 @@ Next Steps
    sheet sections.
 
 4. Prototype PDF generation pipeline.
+
 5. Iterate on aesthetics and usability with sample characters.
 
 -----------------------------------------------------------------------
