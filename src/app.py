@@ -156,21 +156,6 @@ Out of Scope
   Beyond).
 - Advanced graphical editing beyond LaTeX’s design capabilities.
 
------------------------------------------------------------------------
-Next Steps
------------------------------------------------------------------------
-
-1. Formalize the LaTeX structure for both the long and short templates.
-
-2. Identify reusable macros and environments for consistency across
-   templates.
-
-3. Define the Streamlit form fields to match the outlined character
-   sheet sections.
-
-4. Prototype PDF generation pipeline.
-
-5. Iterate on aesthetics and usability with sample characters.
 
 -----------------------------------------------------------------------
 Character Sheet Template Structure
