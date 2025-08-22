@@ -313,7 +313,7 @@ Roleplaying
 - Motivations
 - Quirks
 - Secrets
-	•Goals
+- Goals
 
 Allies and Organizations
 - Allies
