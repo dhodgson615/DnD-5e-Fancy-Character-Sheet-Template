@@ -168,4 +168,172 @@ Next Steps
 4. Prototype PDF generation pipeline.
 5. Iterate on aesthetics and usability with sample characters.
 
+-----------------------------------------------------------------------
+Character Sheet Template Structure
+-----------------------------------------------------------------------
+
+Identity
+- Character Name
+- Player Name
+- Campaign Name
+- Party Name
+- Alignment
+- Religion/Deity
+- Gender
+- Pronouns
+- Age
+- Height
+- Weight
+- Eyes
+- Hair
+- Skin
+- Appearance/Portrait
+- Distinguishing Features
+- Voice/Accent
+
+Basics
+- Species/Race
+- Subrace
+- Class(es)
+- Subclass(es)
+- Level(s)
+- Background
+- Experience Points
+
+Core Stats
+- Strength (Score, Modifier, Save, Save Proficiency)
+- Dexterity (Score, Modifier, Save, Save Proficiency)
+- Constitution (Score, Modifier, Save, Save Proficiency)
+- Intelligence (Score, Modifier, Save, Save Proficiency)
+- Wisdom (Score, Modifier, Save, Save Proficiency)
+- Charisma (Score, Modifier, Save, Save Proficiency)
+
+Derived Stats
+- Proficiency Bonus
+- Initiative
+- Armor Class
+- Speed(s) (walking, flying, swimming, climbing, burrowing)
+- Passive Perception
+- Passive Investigation
+- Passive Insight
+- Hit Points (Max, Current, Temporary)
+- Hit Dice (Type, Total, Used)
+
+Combat Resources
+- Death Saves (Successes, Failures)
+- Spell Slots (by level, total/used)
+- Ki Points / Rage Points / Sorcery Points / Other Resources
+- Conditions/Status Effects
+
+Defenses
+- Resistances
+- Vulnerabilities
+- Immunities
+
+Proficiencies and Training
+- Armor Proficiencies
+- Weapon Proficiencies
+- Tool Proficiencies
+- Language Proficiencies (with sources)
+- Skill Proficiencies (with sources)
+- Expertise Skills
+
+Skills (Individual List)
+- Acrobatics
+- Animal Handling
+- Arcana
+- Athletics
+- Deception
+- History
+- Insight
+- Intimidation
+- Investigation
+- Medicine
+- Nature
+- Perception
+- Performance
+- Persuasion
+- Religion
+- Sleight of Hand
+- Stealth
+- Survival
+
+Senses
+- Darkvision
+- Blindsight
+- Tremorsense
+- Truesight
+- Other senses
+
+Actions
+- Standard Actions
+- Bonus Actions
+- Reactions
+- Weapon Attacks (Name, Attack Bonus, Damage, Range, Notes)
+- Cantrips
+- Special Abilities (usable actions)
+
+Class and Species Features
+- Racial Traits
+- Subrace Traits
+- Class Features
+- Subclass Features
+- Background Features
+- Feats
+- Other Features (from magic items, boons, etc.)
+
+Equipment
+- Starting Equipment
+- Carried Equipment
+- Backpack/Inventory
+- Magic Items
+- Weapons (with stats)
+- Armor (with stats)
+- Tools
+- Currency (cp, sp, ep, gp, pp)
+- Treasure/Valuables
+
+Spells
+- Spellcasting Ability
+- Spell Save DC
+- Spell Attack Bonus
+- Cantrips Known
+- Spells Known
+- Prepared Spells
+- Spell Slots by Level
+- Ritual Casting
+- Spell Descriptions / Notes
+
+Roleplaying
+- Personality Traits
+- Ideals
+- Bonds
+- Flaws
+- Backstory / History
+- Motivations
+- Quirks
+- Secrets
+	•Goals
+
+Allies and Organizations
+- Allies
+- Contacts
+- Factions/Organizations
+- Relationships (friendships, rivalries, loyalties)
+- Enemies
+
+Notes and Miscellaneous
+- Downtime Activities
+- Lifestyle (wretched, poor, modest, wealthy, aristocratic)
+- Titles / Ranks
+- Reputation / Renown
+- Custom Notes
+
+Cosmetic / Optional
+- Symbol / Crest / Insignia
+- Character Quote
+- Theme Song / Inspiration
+- Artwork / Portrait / Token
+- Handwriting Style (for styled sheets)
+
 --------------------------------------------------------------------"""
