@@ -164,6 +164,7 @@ Next Steps
 
 2. Identify reusable macros and environments for consistency across
    templates.
+
 3. Define the Streamlit form fields to match the outlined character
    sheet sections.
 4. Prototype PDF generation pipeline.
