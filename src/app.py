@@ -161,6 +161,7 @@ Next Steps
 -----------------------------------------------------------------------
 
 1. Formalize the LaTeX structure for both the long and short templates.
+
 2. Identify reusable macros and environments for consistency across
    templates.
 3. Define the Streamlit form fields to match the outlined character
